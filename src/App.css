@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: rgb(234, 234, 234);
 }
 
 .App-logo {
@@ -36,4 +37,8 @@
   100% {
     transform: translateY(0px);
   }
+}
+
+h1 {
+  padding: 5%;
 }
